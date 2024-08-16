@@ -1,4 +1,4 @@
-# „O„‰„u„~„ „„‚„€„ƒ„„„€„z „„‚„€„u„{„„
-## „A„…„{„r„p„|„„~„€ „~„y „€ „‰„u„}
+# It's a very simple project
+## Literally about nothing
 
-„N„€ „r „ˆ„u„|„€„} „}„€„w„~„€ „y „„€„‰„y„„„p„„„
+But all in all you can read
